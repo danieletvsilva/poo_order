@@ -11,7 +11,7 @@
 <li>Processar os itens do pedido, armazenando suas informações.</li>
 <li>Exibir um sumário do pedido ao final da execução.</li>
 </ul>
-
+<img src="poo_order.jpg" alt="Diagrama de classe" width="600">
 <h2>Tecnologias Utilizadas</h2>
 
 <ul>
